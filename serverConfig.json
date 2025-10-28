@@ -1,0 +1,3 @@
+{
+    "serverConfig": "{\"mcpServers\":{\"mcp-server-idapro\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/mcp-server-idapro\"],\"values\":{}}}}"
+}
